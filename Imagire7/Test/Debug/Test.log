@@ -1,0 +1,2 @@
+﻿  unittest1.cpp
+c:\users\yuuic.desktop-q8hrndb\source\repos\imagire7\test\unittest1.cpp(20): error C3867: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::c_str': 非標準の構文です。メンバーにポインタを作成するには '&' を使用してください
